@@ -2,7 +2,8 @@ def sorting_string(string1):
     dict1={}
     for element in string1:
         for j in element:
-            if ord(j) in range(ord('a'),ord('z')+1):
+            if j.isalpha():
+            #if ord(j) in range(ord('a'),ord('z')+1):
                 dict1[element]=j
             
     str2= sorted(string1,key=lambda x : dict1[x])
