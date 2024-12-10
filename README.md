@@ -20,6 +20,5 @@
 - [Stupid_Addition](Stupid Addition // Edabit) - [solution](excercises/medium/stupid_addition.py)
 - [Sum_of_v0w3ls](Sum of v0w3ls // Edabit) - [solution](excercises/medium/sum_of_v0w3ls.py)
 - [Return_the_Time_Saved_by_Speeding](Return the Time Saved by Speeding // Edabit) - [solution](excercises/medium/return_the_time_saved_by_speeding.py)
-- [Chocolates_Parcel](Chocolates Parcel // Edabit) - [solution]
 
 ### hard problems
