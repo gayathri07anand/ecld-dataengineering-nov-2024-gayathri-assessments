@@ -1,6 +1,11 @@
 # Gayathri Training Repository
 
 ## Overview
+A training repository that hosts exercises done and assessments conducted.
+
+## Assessments
+- [Nov 21, 2024](assessments/20241121)
+- [Dec 05, 2024](assessments/20241205)
 
 
 ## Exercises
@@ -33,6 +38,3 @@
 - [PasswordValidation](https://edabit.com/challenge/JYyXdP5WBmDiL8LvT)- [solution](excercises/hard/password_validation.py)
 - [BinaryTreeNodes](https://edabit.com/challenge/ycNLF4XMmQub5AeTt)- [solution](excercises/hard/binary_tree_nodes.py)
 
-## Assessments
-- [Nov 21, 2024](assessments/20241121)
-- [Dec 05, 2024](assessments/20241205)
