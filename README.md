@@ -12,13 +12,13 @@
 - [How_Many_Vowels?](https://edabit.com/challenge/3EQGHyiYTNc9LPmhF) - [solution](excercises/easy/how_many _vowels.py)
 
 ### medium problems
-- [List_of_Multiples](List of Multiples // Edabit) - [solution](excercises/medium/list_of_multiples.py)
-- [Quadratic_Equation](Quadratic Equation // Edabit) - [solution](excercises/medium/quadratic_equation.py)
-- [Simple_OOP_Calculator](Simple OOP Calculator // Edabit) - [solution](excercises/medium/calculator.py)
-- [Fullname_and_Email](Fullname and Email // Edabit) - [solution](excercises/medium/fullname_and_email.py)
-- [Reverse_Words_in_a_String](Reverse Words in a String // Edabit) - [solution](excercises/medium/reverse_words_in_a_string.py)
-- [Stupid_Addition](Stupid Addition // Edabit) - [solution](excercises/medium/stupid_addition.py)
-- [Sum_of_v0w3ls](Sum of v0w3ls // Edabit) - [solution](excercises/medium/sum_of_v0w3ls.py)
-- [Return_the_Time_Saved_by_Speeding](Return the Time Saved by Speeding // Edabit) - [solution](excercises/medium/return_the_time_saved_by_speeding.py)
+- [List_of_Multiples](https://edabit.com/challenge/BuwHwPvt92yw574zB) - [solution](excercises/medium/list_of_multiples.py)
+- [Quadratic_Equation](https://edabit.com/challenge/FdsQBPLYBwrpYEbRn) - [solution](excercises/medium/quadratic_equation.py)
+- [Simple_OOP_Calculator](https://edabit.com/challenge/ta8GBizBNbRGo5iC6) - [solution](excercises/medium/calculator.py)
+- [Fullname_and_Email](https://edabit.com/challenge/gB7nt6WzZy8TymCah) - [solution](excercises/medium/fullname_and_email.py)
+- [Reverse_Words_in_a_String](https://edabit.com/challenge/mQunDaXMdXcC9r9xH) - [solution](excercises/medium/reverse_words_in_a_string.py)
+- [Stupid_Addition](https://edabit.com/challenge/GABaDpxGZGFBdQPjs) - [solution](excercises/medium/stupid_addition.py)
+- [Sum_of_v0w3ls](https://edabit.com/challenge/PrvFxnBvedPweuK2E) - [solution](excercises/medium/sum_of_v0w3ls.py)
+- [Return_the_Time_Saved_by_Speeding](https://edabit.com/challenge/fkzJMioMcnP4p4BFG) - [solution](excercises/medium/return_the_time_saved_by_speeding.py)
 
 ### hard problems
