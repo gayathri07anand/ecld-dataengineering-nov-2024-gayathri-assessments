@@ -32,3 +32,7 @@
 - [RansomLetter](https://edabit.com/challenge/XdPy5mwG9g6J9DdEw)- [solution](excercises/hard/ransom_letter.py)
 - [PasswordValidation](https://edabit.com/challenge/JYyXdP5WBmDiL8LvT)- [solution](excercises/hard/password_validation.py)
 - [BinaryTreeNodes](https://edabit.com/challenge/ycNLF4XMmQub5AeTt)- [solution](excercises/hard/binary_tree_nodes.py)
+
+## Assessments
+- [Nov 21, 2024](assessments/20241121)
+- [Dec 05, 2024](assessments/20241205)
