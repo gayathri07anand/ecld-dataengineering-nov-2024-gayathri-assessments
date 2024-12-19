@@ -1,0 +1,106 @@
+[
+    {
+        "timestamp": "2024-01-15T10:30:00",
+        "server_id": "srv-001",
+        "event_type": "performance",
+        "metrics": {
+            "cpu_usage": 85.5,
+            "memory_usage": 90.2,
+            "disk_usage": 72.8
+        },
+        "status": "warning",
+        "priority": "high",
+        "message": "High CPU utilization detected"
+    },
+    {
+        "timestamp": "2024-01-15T10:31:00",
+        "server_id": "srv-002",
+        "event_type": "security",
+        "metrics": {
+            "cpu_usage": 45.2,
+            "memory_usage": 60.8,
+            "disk_usage": 55.3
+        },
+        "status": "critical",
+        "priority": "high",
+        "message": "Failed login attempts exceeded threshold"
+    },
+    {
+        "timestamp": "2024-01-15T10:32:00",
+        "server_id": "srv-001",
+        "event_type": "performance",
+        "metrics": {
+            "cpu_usage": 92.3,
+            "memory_usage": 95.5,
+            "disk_usage": 75.0
+        },
+        "status": "critical",
+        "priority": "high",
+        "message": "System resources near exhaustion"
+    },
+    {
+        "timestamp": "2024-01-15T10:33:00",
+        "server_id": "srv-003",
+        "event_type": "application",
+        "metrics": {
+            "cpu_usage": 55.5,
+            "memory_usage": 45.2,
+            "disk_usage": 68.4
+        },
+        "status": "info",
+        "priority": "low",
+        "message": "Application deployment completed"
+    },
+    {
+        "timestamp": "2024-01-15T10:34:00",
+        "server_id": "srv-002",
+        "event_type": "network",
+        "metrics": {
+            "cpu_usage": 78.4,
+            "memory_usage": 82.3,
+            "disk_usage": 60.1
+        },
+        "status": "warning",
+        "priority": "medium",
+        "message": "Network latency increased"
+    },
+    {
+        "timestamp": "2024-01-15T10:35:00",
+        "server_id": "srv-004",
+        "event_type": "performance",
+        "metrics": {
+            "cpu_usage": 88.7,
+            "memory_usage": 75.6,
+            "disk_usage": 91.2
+        },
+        "status": "warning",
+        "priority": "high",
+        "message": "Disk usage approaching capacity"
+    },
+    {
+        "timestamp": "2024-01-15T10:36:00",
+        "server_id": "srv-001",
+        "event_type": "security",
+        "metrics": {
+            "cpu_usage": 65.4,
+            "memory_usage": 70.2,
+            "disk_usage": 73.8
+        },
+        "status": "warning",
+        "priority": "medium",
+        "message": "SSL certificate expiring soon"
+    },
+    {
+        "timestamp": "2024-01-15T10:37:00",
+        "server_id": "srv-003",
+        "event_type": "database",
+        "metrics": {
+            "cpu_usage": 82.6,
+            "memory_usage": 88.9,
+            "disk_usage": 65.7
+        },
+        "status": "critical",
+        "priority": "high",
+        "message": "Database connection pool exhausted"
+    }
+]

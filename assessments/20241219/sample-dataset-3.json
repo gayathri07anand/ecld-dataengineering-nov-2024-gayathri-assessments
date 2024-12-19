@@ -1,0 +1,189 @@
+[
+    {
+        "transaction_id": "T123456",
+        "timestamp": "2024-01-15T14:30:00",
+        "customer": {
+            "id": "CUS123",
+            "region": "North",
+            "segment": "Premium",
+            "join_date": "2023-01-01"
+        },
+        "items": [
+            {
+                "product_id": "P789",
+                "category": "Electronics",
+                "subcategory": "Smartphones",
+                "price": 499.99,
+                "quantity": 1,
+                "discount": 0.00
+            },
+            {
+                "product_id": "P456",
+                "category": "Accessories",
+                "subcategory": "Phone Cases",
+                "price": 29.99,
+                "quantity": 2,
+                "discount": 5.00
+            }
+        ],
+        "payment_method": "credit_card",
+        "status": "completed",
+        "shipping": {
+            "method": "express",
+            "cost": 15.99,
+            "address": {
+                "city": "Boston",
+                "state": "MA",
+                "country": "USA"
+            }
+        }
+    },
+    {
+        "transaction_id": "T123457",
+        "timestamp": "2024-01-15T14:45:00",
+        "customer": {
+            "id": "CUS456",
+            "region": "South",
+            "segment": "Standard",
+            "join_date": "2023-06-15"
+        },
+        "items": [
+            {
+                "product_id": "P234",
+                "category": "Books",
+                "subcategory": "Fiction",
+                "price": 24.99,
+                "quantity": 3,
+                "discount": 10.00
+            }
+        ],
+        "payment_method": "paypal",
+        "status": "completed",
+        "shipping": {
+            "method": "standard",
+            "cost": 5.99,
+            "address": {
+                "city": "Miami",
+                "state": "FL",
+                "country": "USA"
+            }
+        }
+    },
+    {
+        "transaction_id": "T123458",
+        "timestamp": "2024-01-15T15:00:00",
+        "customer": {
+            "id": "CUS789",
+            "region": "West",
+            "segment": "Premium",
+            "join_date": "2022-03-20"
+        },
+        "items": [
+            {
+                "product_id": "P789",
+                "category": "Electronics",
+                "subcategory": "Smartphones",
+                "price": 499.99,
+                "quantity": 1,
+                "discount": 50.00
+            },
+            {
+                "product_id": "P555",
+                "category": "Electronics",
+                "subcategory": "Tablets",
+                "price": 299.99,
+                "quantity": 1,
+                "discount": 0.00
+            },
+            {
+                "product_id": "P777",
+                "category": "Electronics",
+                "subcategory": "Headphones",
+                "price": 199.99,
+                "quantity": 2,
+                "discount": 25.00
+            }
+        ],
+        "payment_method": "credit_card",
+        "status": "pending",
+        "shipping": {
+            "method": "express",
+            "cost": 25.99,
+            "address": {
+                "city": "Los Angeles",
+                "state": "CA",
+                "country": "USA"
+            }
+        }
+    },
+    {
+        "transaction_id": "T123459",
+        "timestamp": "2024-01-15T15:15:00",
+        "customer": {
+            "id": "CUS101",
+            "region": "East",
+            "segment": "Standard",
+            "join_date": "2024-01-01"
+        },
+        "items": [
+            {
+                "product_id": "P333",
+                "category": "Clothing",
+                "subcategory": "Shirts",
+                "price": 39.99,
+                "quantity": 2,
+                "discount": 15.00
+            },
+            {
+                "product_id": "P444",
+                "category": "Clothing",
+                "subcategory": "Pants",
+                "price": 59.99,
+                "quantity": 1,
+                "discount": 0.00
+            }
+        ],
+        "payment_method": "debit_card",
+        "status": "completed",
+        "shipping": {
+            "method": "standard",
+            "cost": 7.99,
+            "address": {
+                "city": "New York",
+                "state": "NY",
+                "country": "USA"
+            }
+        }
+    },
+    {
+        "transaction_id": "T123460",
+        "timestamp": "2024-01-15T15:30:00",
+        "customer": {
+            "id": "CUS202",
+            "region": "North",
+            "segment": "Premium",
+            "join_date": "2023-08-15"
+        },
+        "items": [
+            {
+                "product_id": "P888",
+                "category": "Home",
+                "subcategory": "Kitchen",
+                "price": 199.99,
+                "quantity": 1,
+                "discount": 20.00
+            }
+        ],
+        "payment_method": "gift_card",
+        "status": "cancelled",
+        "shipping": {
+            "method": "standard",
+            "cost": 9.99,
+            "address": {
+                "city": "Chicago",
+                "state": "IL",
+                "country": "USA"
+            }
+        }
+    }
+]
