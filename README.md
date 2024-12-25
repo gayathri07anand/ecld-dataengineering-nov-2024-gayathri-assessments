@@ -6,6 +6,7 @@ A training repository that hosts exercises done and assessments conducted.
 ## Assessments
 - [Nov 21, 2024](assessments/20241121)
 - [Dec 05, 2024](assessments/20241205)
+- [Dec 19, 2024](assessments/20241219)
 
 
 ## Exercises
